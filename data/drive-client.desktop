@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Drive Client
+GenericName=Alternate Client for Google's drive
+Comment=Access for your Google Drive account
+GenericName[hu]=Alternatív kliens a Google meghajtához
+Comment[hu]=Hozzáférés a Google Drive fiókhoz
+Type=Application
+Categories=Utility;
+Exec=drive-client
+Terminal=false
+StartupNotify=true
+Icon=drive-client
+

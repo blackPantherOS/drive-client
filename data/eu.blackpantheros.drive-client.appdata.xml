@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>eu.blackpantheros.drive-client</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license></project_license>
+  <name>Grive Client</name>
+  <summary>Access your Google Drive</summary>
+
+  <description>
+    <p>Google Drive Client.Is a alternative Google Drive desktop client solution for Linux Desktop</p>
+  </description>
+
+  <launchable type="desktop-id">eu.blackpantheros.drive-client.desktop</launchable>
+
+  <screenshots>
+    <screenshot type="default">
+      <caption>Drive-Client</caption>
+      <image>https://github.com/blackPantherOS/drive-client/screenshots/drive-client1.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/blackPantherOS/drive-client/screenshots/drive-client2.jpg</image>
+    </screenshot>
+  </screenshots>
+
+  <url type="homepage">https://github.com/blackPantherOS/drive-client</url>
+  <project_group>Utilities</project_group>
+
+  <provides>
+    <binary>drive-client</binary>
+  </provides>
+
+  <releases>
+    <release version="2.0" date="2018">
+      <description>
+        <p>Public released version</p>
+      </description>
+    </release>
+  </releases>
+</component>
